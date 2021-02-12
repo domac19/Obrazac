@@ -3,4 +3,3 @@ Dokument koji prikazuje izradu jednostavnog obrazca za unos podataka. Cijela for
 
 <h2>Izgled kompletnog obrazca</h2>
 
-<img src="Untiled.png">
